@@ -1,4 +1,4 @@
-# Lost Pets Livecode :: ::
+# Lost Pets Livecode :dog:	:monkey_face:	:cat:	
 
 Hey All ! Lazy coder here :smirk: ! Congratulations on finishing up your Rails CRUD challenges :rocket: ! 
 
